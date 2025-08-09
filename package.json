@@ -1,0 +1,16 @@
+{
+  "name": "node-cluster",
+  "version": "0.0.1",
+  "description": "An example app using Node.js Cluster module",
+  "keywords": [
+    "Node.js",
+    "Cluster"
+  ],
+  "license": "MIT",
+  "author": "Anik Mohammad <anik7303@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
